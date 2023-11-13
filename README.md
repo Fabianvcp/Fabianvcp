@@ -73,12 +73,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/fabianvcp/fabianvcp/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<p align="center">Hello World!!</p>
+<p align="center">¡Hola! Soy un apasionado desarrollador backend con experiencia en Python, JavaScript, PHP, y el desarrollo de APIREST. Mi trayectoria comenzó en una empresa de desarrollo web en Carlos Paz, donde adquirí sólidos conocimientos en el campo. Desde entonces, he crecido profesionalmente trabajando en una Pyme junto a un talentoso equipo y más tarde, participando en proyectos de mayor envergadura en empresas de renombre.</p>
 
 ###
