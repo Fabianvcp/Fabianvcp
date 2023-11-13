@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Fabian A. Gallardo and I'm a Backend develop</h2>
+<h2 align="center">Hola 👋! Me llamo Fabian A. Gallardo y soy bsackend developer</h2>
 
 ###
 
